@@ -123,7 +123,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries, feel free to reach out:
-- **Name**: Soyeb Ganja
+- **LinkedIN**: https://linkedin.com/in/soyeb-ganja
 - **Email**: soyeb.ganja@gmail.com
 - **GitHub**: [SoyebGanja](https://github.com/soyebganja)
 
