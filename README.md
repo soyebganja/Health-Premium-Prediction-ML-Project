@@ -2,6 +2,10 @@
 
 This project implements machine learning models to predict credit risk, helping financial institutions assess borrower reliability and make informed lending decisions based on various customer attributes and financial history.
 
+🎯 Try the live demo: https://statistical-ml-project-premium-prediction.streamlit.app/
+
+![Screenshot from 2025-06-21 03-22-17](https://github.com/user-attachments/assets/92817ce7-f5b1-4ee9-ae3a-9455445a68c0)
+
 ---
 
 ## Table of Contents
